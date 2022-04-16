@@ -11,3 +11,6 @@
 * [安装基础软件](an-zhuang-ji-chu-ruan-jian.md)
 * [设计网站外观](she-ji-wang-zhan-wai-guan.md)
 * [处理文件](chu-li-wen-jian.md)
+* [HTML 基础](html-ji-chu.md)
+* [CSS 基础](css-ji-chu.md)
+* [JavaScript基础](javascript-ji-chu.md)
