@@ -23,8 +23,6 @@ description: >-
 </html>
 ```
 
-复制到剪贴板
-
 HTML[`<head>`](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/head) 元素与 [`<body>`](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/body)元素不同，它不会在浏览中显示，它的作用是保存页面的一些[元数据](https://developer.mozilla.org/zh-CN/docs/Glossary/Metadata)。
 
 ```
